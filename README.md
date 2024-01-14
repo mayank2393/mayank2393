@@ -43,6 +43,10 @@ Languages:
 <!-- Languages: JS -->
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
   <br>
+
+  <!-- Languages: TS -->
+  <a href="https://www.typescript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="Typescript" height="50" /></a>
+  <br>
 <!-- Tools: heading -->
  <h3>
  <p align="left">
