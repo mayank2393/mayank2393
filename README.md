@@ -9,9 +9,9 @@
 
 ### <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Mayank+Tripathi.;💻+A+self+taught+programmer,+student.;👨🏻‍💻+Web+Developer.)](https://github.com/mayank2393)
   
-- 🏫 B.Tech IT'26, NIT Kkr 
-- 💻 Developer
-- 🌱 I’m currently learning DSA, interested in WEB Development, Blockchain, Open Source as well as in Competitive Programming
+- 🏫 B.Tech IT'26, NIT Kurukshetra
+- 💻 Web Developer , Coding Enthusiast
+- 🌱 I’m currently learning DSA, interested in Web Dev, Blockchain as well as in Competitive Programming
 </div>
 
 <br/>  
