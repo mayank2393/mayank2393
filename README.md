@@ -11,7 +11,7 @@
   
 - 🏫 B.Tech IT'26, NIT Kurukshetra
 - 💻 Web Developer , Coding Enthusiast
-- 🌱 I’m currently learning DSA, interested in Web Dev, Blockchain as well as in Competitive Programming
+- 🌱 I’m currently learning DSA, Web Dev , interested in web3.0   as well as in Competitive Programming
 </div>
 
 <br/>  
