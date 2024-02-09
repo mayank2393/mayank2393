@@ -106,9 +106,9 @@ Languages:
 <img src=https://img.shields.io/badge/CodeChef-%23000000.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://leetcode.com/mayank1261/" target="_blank">
+<!--<a href="https://leetcode.com/mayank1261/" target="_blank">
 <img src=https://img.shields.io/badge/Leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=codechef style="margin-bottom: 5px;" />
-</a>
+</a>-->
 
   
   
