@@ -54,9 +54,9 @@ Languages:
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /></a>  
   <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40" /></a>  
-  <a href="https://postgresql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql.png" alt="PostgresQL" height="40" /></a>  
   <br>
 <!-- Tools: heading -->
+  <!--
  <h3>
  <p align="left">
 ⚙ Tools:
@@ -65,8 +65,11 @@ Languages:
  <br>
 
  <!-- Tool: VSC -->
+ <!--
  <p align="left"> 
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48"/> </a>
+
+ -->
 
 <!--## Github Stats  
  
