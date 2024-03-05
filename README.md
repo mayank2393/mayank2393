@@ -67,7 +67,7 @@ Languages:
  <p align="left"> 
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48"/> </a>
 
-## Github Stats  
+<!--## Github Stats  
  
   <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mayank2393&style=flat-square" align="center" />
@@ -83,6 +83,7 @@ Languages:
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mayank2393&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank2393&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>  
+-->
 
 <br/>  
 
