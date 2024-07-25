@@ -56,14 +56,14 @@ Languages:
   <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40" /></a>  
   <br>
 <!-- Tools: heading -->
-
+<!--
  <h3>
  <p align="left">
 ⚙ Tools:
       </p>
       </h3>
  <br>
-
+-->
  <!-- Tool: VSC -->
 
  <p align="left"> 
@@ -72,7 +72,7 @@ Languages:
 
 
 <!-- ## Github Stats -->  
- 
+ <!--
   <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mayank2393&style=flat-square" align="center" />
 </div>  
@@ -91,15 +91,15 @@ Languages:
 
 <br/>  
 
+-->
 
-
-
-
+<!--
 ## Connections:  
 <div align="center">
-<!-- <a href="https://linkedin.com/in/pranshu54" target="_blank">
+<!-- <a href="https://linkedin.com/in/mayank" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> -->
+<!--
 <a href="https://www.instagram.com/mt@_0239" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
@@ -115,7 +115,7 @@ Languages:
 <img src=https://img.shields.io/badge/Leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 </a>-->
 
-  
+  -->
   
 </div>  
   
